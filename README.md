@@ -1,6 +1,7 @@
-国外没有996，世界那么大，出去看看吧。
+# 996.Leave
+> 很多事情你无法改变，但可以选择离开。
 
-**很多事情你无法改变，但可以选择离开**
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 ### 背景
 
@@ -25,7 +26,10 @@
 * [美国](https://github.com/623637646/996.Leave/blob/master/country/United%20States.md)
 * [荷兰](https://github.com/623637646/996.Leave/blob/master/country/Netherlands.md)
 * [英国](https://github.com/623637646/996.Leave/blob/master/country/United%20Kingdom.md)
-
+* [新西兰](https://github.com/623637646/996.Leave/blob/master/country/New%20Zealand.md)
+* [奥地利](https://github.com/623637646/996.Leave/blob/master/country/Austria.md)
+* [澳大利亚](https://github.com/623637646/996.Leave/blob/master/country/Australia.md)
+* [瑞典](https://github.com/623637646/996.Leave/blob/master/country/Sweden.md)
 
 ---
 
@@ -37,11 +41,7 @@
 
 [Yanni，王氩](https://github.com/623637646)
 
-现在在 Shopee（新加坡）公司任职iOS开发工程师
-
-私人Email：wy19900729@gmail.com
-
-技术博客：http://623637646.github.io/
+2018年8月份加入Shopee（新加坡）公司任职iOS开发工程师至今。
 
 90年出生，13年国内二本毕业，iOS工作7年。
 
@@ -123,6 +123,8 @@
 
 同时我也不看好中国的房市（据我所知，住房公积金越来越难取出了）。
 
+新加坡也有住房公积金，不过是公民和PR（永久居民）才会强制缴纳的，外国人不用缴纳。具体可以Google。
+
 # 休假
 
 国内7至9天，吐槽一下，很多人的年假，由于领导不批，工作太忙导致过期浪费。
@@ -132,14 +134,14 @@
 
 # 消费
 
-1. 租房，2500 - 7500人民币每月，单间。总体来说贵一点。
-2. 吃饭，30 - 80人民币一顿普通的饭。 下馆子会很贵，基本上人均200 - 500人民币。
+1. 租房，2500 - 10000 人民币每月，单间。总体来说贵一点。
+2. 吃饭，30 - 80人民币一顿普通的饭。 下馆子会很贵，基本上人均150 - 350人民币。
 3. 日用品，除了电器，烟酒贵一点，其他都还好。
-4. 交通，一天上下班20 - 40人民币，看情况。
+4. 交通，一天上下班，地铁10 - 20人民币，看具体情况。
 
 # 房价
 
-外国人买房相对较贵，但是赶不上北上深（和二线城市差不多，看地理位置）。
+外国人买房相对较贵，但是赶不上北上深（比二线城市贵一点，看地理位置）。
 如果可以申请到PR（永久居民）或者转成公民（放弃中国国籍），买房会很便宜（相当于国内三线城市）。
 具体信息Google可以帮助你。
 
@@ -171,6 +173,24 @@
 1. 基础面试很细致，基本功不好很难蒙混过关
 2. 算法面试很普遍，尤其是需要网上某个平台敲代码，Run结果（在国内好像不多）
 
+面试通过后，公司会帮助申请工作签证。只需要等通知，买机票来上班就好了。
+
+# 各抒己见
+
+[yanjunding](https://github.com/yanjunding):
+
+* 本人在新加坡工作10+年，最近刚到新西兰。这里有许多从新加坡过来的ITer。但是也有很多想回新加坡的。新加坡的税少，华人面孔多是最主要的原因。
+新加坡的教育方式跟国内差不多，高强度，周末基本掩盖在补习中。新西兰就比较放养，工作比较简单。
+* 所有新加坡公民和第二代PR需要服役，基本跑不掉的。如果逃跑，'永远'没有机会去新加坡工作。
+
+[ccwukong](https://github.com/ccwukong)
+
+* [新加坡加班和竞争也十分激烈，补充几个遗漏的观点](https://github.com/623637646/996.Leave/issues/28)
+
+一篇不错的文章
+
+* [别再抱怨了，没有比新加坡更好的地方了](https://mp.weixin.qq.com/s/3RKIEBNBCgvuVlkN-rItDA) (标题有点扯，但是文章感觉不错，强者在哪里都是强者，弱者在哪里都会抱怨)
+
 # 招聘资源
 
 以下联系方式均已得到许可，大家可以联系他们，咨询相关事宜。
@@ -181,6 +201,7 @@
 * 我是通过猎头朋友推荐过来的。感谢猎头Season (Email:season.yang@ambition.com.sg , [Linkedin](https://www.linkedin.com/in/yangseason/))。
 * [4月招聘 | 谁说裁员大潮引发就业寒冬？！新加坡25259个工作岗位紧急招人～](https://mp.weixin.qq.com/s/eVC7HxqZLk6K6YZwDTKs8g)
 * 推荐微信公众号 新加坡万事通，新加坡眼，新加坡狮城椰子，这些公众号不定期发布招聘信息，或者发布新加坡相关文章。
+* 本地招聘网站：jobsdb, jobstreet, Monster。
 * 由于我公司政策和个人精力原因，不能内推到公司工作，谢谢理解。
 
 ---
